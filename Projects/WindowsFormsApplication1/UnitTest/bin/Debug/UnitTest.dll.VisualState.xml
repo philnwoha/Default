@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\phil.nwoha\documents\visual studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\UnitTest.dll</TopNode>
+  <SelectedNode>[0-1001]UnitTest.Class1.testSavingNewUser</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\phil.nwoha\documents\visual studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\UnitTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]UnitTest" Expanded="true" />
+    <Node UniqueName="[0-1000]UnitTest.Class1" Expanded="true" />
+  </Nodes>
+</VisualState>

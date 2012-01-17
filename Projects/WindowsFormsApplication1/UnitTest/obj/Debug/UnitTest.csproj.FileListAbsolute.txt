@@ -1,0 +1,8 @@
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\phil.nwoha\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\UnitTest\obj\Debug\UnitTest.pdb
